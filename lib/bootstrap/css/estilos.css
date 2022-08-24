@@ -1,0 +1,86 @@
+
+/*
+.enlaceboton {      text-decoration:none;
+font-weight:100;
+font-size:15px;
+color:#ffffff;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:17px;
+padding-right:17px;
+background-color:#005BBB;
+border-radius:5px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  /*Codigo opcional - Fondo de la pagina*/
+
+  /*---
+  body, .modal{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+    transition: all 500ms ease;
+    opacity: 0;
+    visibility: hidden;
+  }
+  #btn-modal:checked ~ .modal{
+    opacity: 1;
+    visibility: visible;
+  } 
+  .contenedor{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 1px 7px 25px rgba(0,0,0,0.6);
+    transition: all 500ms ease;
+    position: relative;
+    transform: translateY(-30%);
+  }
+  #btn-modal:checked ~ .modal .contenedor{
+    transform: translateY(0%);
+  } 
+  .contenedor header{
+    padding: 10px;
+    background: #db8046;
+    color: #fff;
+  }
+  .contenedor label{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  #btn-modal{
+    display: none;
+  }
+  .lbl-modal{
+    background: #fff;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  @media only screen and (min-width:320px) and (max-width:768px){
+    .contenedor{
+      width: 95%;
+    }
+  }
+
+*/
+
